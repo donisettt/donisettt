@@ -1,8 +1,27 @@
 <!-- HEADER -->
-<h1 align="center">Hey, I'm Doni Sw👋</h1>
-<p align="center">
-  <i>Informatics Engineer | Tech Explorer | Future System Architect</i>
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/doni-setiawan-wahyono" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/dnisetyaw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mailto:donisetiawanwahyono@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">hey there 👋, I'm Doni Sw</h1>
+
+###
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+code+what+I+dream.;I+build+what+I+believe.;I+break+what+I+learn.;Welcome+to+my+GitHub!+👨‍💻" alt="Typing SVG" />
@@ -28,18 +47,21 @@ currently-learning:
 fun-fact: "I debug better at 2am with lo-fi music"
 ```
 
-<!-- TECH STACK -->
-🧰 Tech Stack
+<!-- Tech Stak -->
+<h3 align="left">🛠 Language and tools</h3>
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,html,css,tailwind,bash,python,mysql,linux,vscode,github,git" /> </p>
 
+<h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=donisettt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=donisettt&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=donisettt&theme=default" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donisettt&layout=compact&theme=default" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph.svg">
+</picture>
 
-
-<!-- CONNECT -->
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/doni-setiawan-wahyono" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:donisetiawanwahyono@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/dnisetyaw" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> </a> <a href="https://donisw.my.id" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white" /> </a> </p>
-<!-- FOOTER --> 
-<details> <summary>📖 <b>Random Quote for the Day</b></summary> <blockquote> <p>"First, solve the problem. Then, write the code." – Doni Sw</p> </blockquote> </details> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=lightgrey" alt="Profile Views" /> </p>
+###
