@@ -21,7 +21,6 @@
 
 <h1 align="center">hey there 👋, I'm Doni Sw</h1>
 
-###
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+code+what+I+dream.;I+build+what+I+believe.;I+break+what+I+learn.;Welcome+to+my+GitHub!+👨‍💻" alt="Typing SVG" />
@@ -36,6 +35,7 @@
 ```yaml
 name: Doni Setiawan Wahyono
 role: Informatics Engineering Student
+university: Universitas Teknologi Bandung
 passion:
   - Network Design
   - Web Development
@@ -52,16 +52,16 @@ fun-fact: "I debug better at 2am with lo-fi music"
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,html,css,tailwind,bash,python,mysql,linux,vscode,github,git" /> </p>
 
-<h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=donisettt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">🔥 Contributions Overview</h3>
+
+[![Donis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donisettt&bg_color=ffffff&color=000000&line=007acc&point=1f6feb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h3 align="left"> 🚀 Play game with me</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/donisettt/donisettt/output/pacman-contribution-graph.svg">
 </picture>
-
-###
