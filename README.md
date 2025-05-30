@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Doni
+name: Doni Setiawan Wahyono
 role: Informatics Engineering Student
 passion:
   - Network Design
