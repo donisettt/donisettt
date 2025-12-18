@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Halo 👋, Saya Doni Setiawan Wahyono</h1>
+<h1 align="center">Halo 👋, I'm Doni Setiawan Wahyono</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=400&lines=Multi+Platform+App+Developer;Student+|+Web+%26+Mobile+Developer" alt="Typing SVG" />
