@@ -24,8 +24,6 @@
   </a>
 </div>
 
-<hr />
-
 ---
 
 ## 🛠 Tech Stack yang Saya Gunakan
