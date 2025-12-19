@@ -26,19 +26,19 @@
 
 ---
 
-## 🛠 Tech Stack yang Saya Gunakan
+## 🛠 My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,flutter,kotlin,dart,python,flask,html,css,tailwind,mysql,postgres,firebase,docker,git,github,vscode" />
 </p>
 <br>
 <p align="center">
-    *Termasuk Arsitektur MVVM, OOP, Clean Code, dan Google Gemini AI SDK.*
+    *Including Architecture MVVM, OOP, Clean Code, and Google Gemini AI SDK.*
 </p>
 
 ---
 
-## 🔥 Aktivitas & Kontribusi
+## 🔥 Activities & Contributions
 
 [![Donis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donisettt&bg_color=191919&color=007acc&line=1F6FEB&point=00A0B0&area=true&hide_border=true&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
