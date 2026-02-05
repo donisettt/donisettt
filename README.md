@@ -29,7 +29,7 @@
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,flutter,kotlin,dart,python,flask,html,css,tailwind,mysql,postgres,firebase,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,js,react,flutter,kotlin,dart,python,flask,html,css,tailwind,mysql,postgres,firebase,docker,git,github,vscode" />
 </p>
 <br>
 <p align="center">
