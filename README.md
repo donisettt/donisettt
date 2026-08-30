@@ -40,7 +40,7 @@
 
 ## 🔥 Activities & Contributions
 
-[![Donis's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donisettt&bg_color=191919&color=007acc&line=1F6FEB&point=00A0B0&area=true&hide_border=true&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Doni's GitHub activity graph](https://github-readme-activity-graph-theta-sage.vercel.app/graph?username=donisettt&bg_color=191919&color=007acc&line=1F6FEB&point=00A0B0&area=true&hide_border=true&theme=dark)](https://github.com/donisettt)
 
 <div align="center">
 <picture>
